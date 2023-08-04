@@ -1,0 +1,16 @@
+
+body {
+    background-image: url("imagens/fundo.png");
+}
+
+nav {
+    background-color: #d2d2d2c1;
+    width: 900px;
+    height: 70px;
+}
+a {
+    l
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(71, 71, 139);
+}
