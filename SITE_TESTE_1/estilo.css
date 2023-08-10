@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+body {
+    background-color: black;
+}
+
+header {
+    color: aqua;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    display: block;
+    width: 500px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p#paragrafos {
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+button#donwload {
+    background-color: rgb(0, 153, 255);
+    font-family: 'Courgette', cursive;    width: 80px;  color: white;
+    height: 30px;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+}
